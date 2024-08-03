@@ -1,0 +1,17 @@
+{
+  "externalBillPayDetails": [
+    {
+      "mdmPartyIdentifier": "123456789",
+      "mdmContractIdentifier":"987654321987654321",
+      "vendorName": "Fiserv",
+      "product": "Checkfree Next",
+      "userVendorIdentifier":"89s7dfsd5f4rjhtj789sdfqa",
+      "accountVendorNumber": "asda45646asd7qw4564asd567asd",
+      "enrollmentIndicator": "Active",
+      "isPreferedAccount": false,
+      "createdDateTime": "2021-01-01T232311",
+      "updatedDateTime": "2021-01-01T232311",
+      "originalSourceSystem": "PPO"
+    }
+  ]
+}

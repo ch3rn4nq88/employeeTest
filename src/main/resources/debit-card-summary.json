@@ -1,0 +1,13 @@
+[
+  {
+    "mdmContractIdentifier":"987654321987654321",
+    "mdmPartyIdentifier":"12345",
+    "accountNumber":"7262263827237281",
+    "accountFamily":"DDA",
+    "openingDate":"2008-09-17T12:12:12",
+    "cardNumber": "4152313269585676",
+    "originatingSourceSystem": "PCS",
+    "accountProductName":"PNC Bank Visa Debit Card",
+          "accountCardActivatorIndicator": "N"
+        }
+    ]

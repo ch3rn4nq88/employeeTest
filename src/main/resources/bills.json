@@ -1,0 +1,25 @@
+[
+{
+      "amountDue": 99.95,
+      "balanceAmountDue": 99.95,
+      "payeeLogoUrl": "https://path/image3.jpg",
+      "payeeTeaserAdImageUrl": "https://path/image3.jpg",
+      "payeeTeaserAdUrl": "https://path/image3.jpg",
+      "payeeTeaserAdText": "https://path/image3.jpg",
+      "billType": "FromBiller",
+      "dateFirstViewed": "2019-03-06",
+      "payeeUri": "/api/v1/me/payee/12b61363427448c2b32261f3edf06abb",
+      "dueDate": "2019-03-07",
+      "dueDateText": "Due upon receipt",
+      "reasonForFiling": "NoneSpecified",
+      "filerNote": "Example Note",
+      "detailUrlIframeSupportedIndicator": false,
+      "minimumAmountDue": 20.99,
+      "replacedBillIdentifier": 1234,
+      "useDueDateTextIndicator": false,
+      "billUri": "bd9ea4bf7f5d54ee7af7282d752ea8062",
+      "billIdentifier": "bd9ea4bf7f5d54ee7af7282d752ea8062",
+      "paymentStatus": "Unpaid",
+      "actionByDate": "2019-03-06T20:00:00.000Z"
+}
+]

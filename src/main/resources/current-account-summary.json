@@ -1,0 +1,14 @@
+{
+  "accountSummary":[
+    {
+      "mdmContractIdentifier": "9876543210987654321",
+      "mdmPartyId": "123456789",
+      "accountTypeExtension": "DDA"
+    },
+    {
+      "mdmContractIdentifier": "9876543210987654322",
+      "mdmPartyId": "123456789",
+      "accountTypeExtension": "SVG"
+    }
+  ]
+}

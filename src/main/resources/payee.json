@@ -1,0 +1,9 @@
+{
+  "fullName": "Carlos Hernan Quintana Agredo",
+  "maskedAccountNumber": "****4311",
+  "category": "uncategorized",
+  "status": "Active",
+  "payeeUri": "/api/v1/me/payee/12b61363427448c2b32261f3edf06abb",
+  "payeeIdentifier":"12b61363427448c2b32261f3edf06abb",
+  "nickName": "chernanq88"
+}

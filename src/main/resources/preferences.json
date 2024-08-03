@@ -1,0 +1,16 @@
+[
+  {
+  "preferenceIdentifier": "1234",
+  "preferenceName": "VW_STUDENT_EXPIRE_MESSAGE",
+  "preferenceValue": true,
+  "createdDateTime": "2019-03-06T20:00:00.000Z",
+  "modifiedDateTime": "2019-03-06T20:00:00.000Z"
+  },
+  {
+    "preferenceIdentifier": "1234",
+    "preferenceName": "VW_SHOW_WAIVER",
+    "preferenceValue": true,
+    "createdDateTime": "2019-03-06T20:00:00.000Z",
+    "modifiedDateTime": "2019-03-06T20:00:00.000Z"
+  }
+]

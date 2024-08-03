@@ -1,0 +1,22 @@
+{
+    "managedAccount":[
+        {
+            "mdmContractIdentifier":"987654321987654321",
+            "mdmPartyIdentifier":"12345",
+            "accountNumber":"7262263827237282",
+            "accountFamily":"CreditCard",
+            "accountProductName":"PNC Visa Signature",
+            "openingDate":"2008-09-19T12:12:12",
+            "creditCardAccount":{
+                "accountReissueControlCode":"7",
+                "accountStatement":{
+                    "lastStatementBalance":10.0,
+                    "lastStatementDate":"2023-08-10"
+                },
+                "paymentInfo":{
+                    "minimumPaymentDue": 10.0
+                }
+            }
+        }
+    ]
+}
